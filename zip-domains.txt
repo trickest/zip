@@ -37,6 +37,7 @@ adobeflash.zip
 advapi32.zip
 adware.zip
 ae888.zip
+aeat.zip
 aetools.zip
 affine.zip
 agentinstall.zip
@@ -188,8 +189,10 @@ backup-all.zip
 backup-file.zip
 backup.zip
 backup2.zip
+backupconfig.zip
 backupfiles.zip
 backups.zip
+backuptijuana.zip
 backuptrucking.zip
 baggett.zip
 baidu.zip
@@ -270,7 +273,9 @@ bloodwork.zip
 bluesky.zip
 bluewaters.zip
 bmp.zip
+bmvwin64.zip
 bmwleak.zip
+bo160.zip
 boardnotes.zip
 boeing.zip
 boidu.zip
@@ -287,6 +292,7 @@ bootloader.zip
 borgun2.zip
 boris.zip
 bort.zip
+bostonleader.zip
 bot.zip
 botnet.zip
 botnets.zip
@@ -364,6 +370,7 @@ cfg.zip
 chal.zip
 chall.zip
 changeset.zip
+charlie-mars-backup.zip
 chatbots.zip
 chatgptagent.zip
 cheat.zip
@@ -398,6 +405,7 @@ clients.zip
 clint.zip
 cloud.zip
 cloudflare.zip
+cloudlogs.zip
 clout.zip
 clue.zip
 cmd.zip
@@ -416,6 +424,7 @@ columbine.zip
 com.zip
 comi.zip
 commencement.zip
+commits.zip
 commonjs-win64.zip
 community.zip
 company-financials.zip
@@ -448,6 +457,7 @@ contents.zip
 contract.zip
 controlup.zip
 conyers.zip
+conyersportalmalware.zip
 copilot.zip
 corbin.zip
 coreweave.zip
@@ -458,10 +468,13 @@ correspondence.zip
 corriere.zip
 corto.zip
 cosmo.zip
+cougarnews-win64.zip
 courier.zip
 couriers.zip
+coverandlayoutwin32.zip
 coverletter.zip
 cowandrooster.zip
+cowboyartistsofamerica-win32.zip
 cows.zip
 cox.zip
 coxenterprises.zip
@@ -471,6 +484,7 @@ cr4.zip
 crab.zip
 cracking.zip
 crackme.zip
+craftrevivalupdates.zip
 cram.zip
 crashed.zip
 crazygames.zip
@@ -478,6 +492,7 @@ crdf.zip
 crea-pr-malware.zip
 credential.zip
 creds.zip
+crestbd-nudes.zip
 criticalupdate.zip
 crow.zip
 crowdstrikebackup.zip
@@ -498,6 +513,7 @@ cultivate.zip
 cum.zip
 cumberland.zip
 curriculo.zip
+cust.zip
 customerdata.zip
 customerinvoices.zip
 cv-tricksbackup.zip
@@ -572,6 +588,8 @@ dev-paru.zip
 devcore.zip
 devel.zip
 device1472748-ad209c5d.zip
+device1705791-b5ba4504-local.zip
+device1808661-2f09fb90.zip
 device1937047-e024624d.zip
 device2347283-d8e182e0-local.zip
 devis.zip
@@ -587,6 +605,7 @@ dicom.zip
 dicsord.zip
 difmatehuala.zip
 digipen.zip
+digitalocean.zip
 digitalshadows.zip
 dina.zip
 dinadeljanin.zip
@@ -607,6 +626,7 @@ dist.zip
 diva.zip
 dklab.zip
 dlaczego.zip
+dmarc.zip
 dmca.zip
 dna.zip
 dns.zip
@@ -738,6 +758,7 @@ entrepreneurship.zip
 entries.zip
 envoyer.zip
 ep2.zip
+eparaksts.zip
 epub.zip
 ergohellas.zip
 erratic.zip
@@ -751,6 +772,7 @@ etch.zip
 eternal.zip
 eth.zip
 eumel.zip
+ev1l.zip
 evelyn.zip
 eventregistration.zip
 everything.zip
@@ -759,11 +781,15 @@ evil.zip
 evilcorp.zip
 evjp.zip
 example1.zip
+example2.zip
+exe-onlinepillswww.zip
+exe-ricardo-dias.zip
 exe.zip
 executable.zip
 exhibits.zip
 exitbee-win64.zip
 expenses.zip
+expiring.zip
 exploit.zip
 exploits.zip
 export-file.zip
@@ -824,6 +850,7 @@ fileupload.zip
 filevault.zip
 filez.zip
 filezilla.zip
+filings.zip
 final-report.zip
 final.zip
 finals.zip
@@ -900,6 +927,8 @@ funnymemes.zip
 furryporn.zip
 fursuit.zip
 fursuitun.zip
+furtherconfusion-malware.zip
+futsalfotos.zip
 fwupdate.zip
 fwupgrade.zip
 fxserver.zip
@@ -1082,6 +1111,7 @@ iam.zip
 iana.zip
 iatest.zip
 ibm.zip
+ibmdb2.zip
 ict.zip
 idealista.zip
 idol.zip
@@ -1118,12 +1148,14 @@ inputs.zip
 insecure.zip
 insidea.zip
 install-update.zip
+installer-safeboot.zip
 installers.zip
 installersteinfibel.zip
 installertkpi.zip
 installwizard.zip
 instant.zip
 instrumentals.zip
+intechconstruction-win64.zip
 intelligence.zip
 interfor.zip
 internet-millionacres.zip
@@ -1149,8 +1181,11 @@ ip-42-125.zip
 ip.zip
 ipa.zip
 ipsw.zip
+irishcoinageletter.zip
 irpf.zip
 irs.zip
+irvineworldnews.zip
+isfahanplanwin64.zip
 isjusta.zip
 ismy.zip
 isos.zip
@@ -1204,7 +1239,9 @@ kabelkom.zip
 kaczka.zip
 kai.zip
 kali.zip
+kandji.zip
 kaplwin32.zip
+kaseyabackup.zip
 kayleigh.zip
 kdbx.zip
 keeper.zip
@@ -1279,6 +1316,9 @@ leonard.zip
 leriche.zip
 letter-bricsindia.zip
 letter-fibosearch.zip
+letter-openswr.zip
+letter-pc-tablet.zip
+letter-planlaufterrain.zip
 letter-smicval.zip
 letter-stuttertalk.zip
 letter-thalemovie.zip
@@ -1345,8 +1385,13 @@ makea.zip
 malicious-content.zip
 malicious.zip
 maliciousfile.zip
+malware-easycurrencyconverter.zip
+malware-exitfilm.zip
 malware-womeninbotany.zip
 malwareemeritus.zip
+malwarelindsayandersonfilms.zip
+malwarelittlebluefrog.zip
+malwarelyrita.zip
 malwareonegiantleap.zip
 malwareporterchester.zip
 malwareroulette.zip
@@ -1504,6 +1549,7 @@ myweb.zip
 mywebsite.zip
 n0tsus.zip
 nanos.zip
+natalialafourcade-updates.zip
 nbs.zip
 nca.zip
 ncdn.zip
@@ -1670,6 +1716,7 @@ pagaya.zip
 pagefile.zip
 paidy.zip
 paloaltonetworks.zip
+paloproductions.zip
 pandemic.zip
 pandora.zip
 part0.zip
@@ -1736,6 +1783,8 @@ phtml.zip
 piaggio.zip
 pic.zip
 pickle.zip
+pictures-loandsons.zip
+pictures-loanmaxtitleloans.zip
 pictures-syuh.zip
 pictures-theatreroyal.zip
 pictures.zip
@@ -1963,8 +2012,10 @@ ronan.zip
 rootkit.zip
 rootkits.zip
 roundtable.zip
+royalbcmuseumexe.zip
 rpkg.zip
 rpm.zip
+rri2dgtlwpw1v.zip
 rsec.zip
 rsync.zip
 rtkhdasetting.zip
@@ -2018,6 +2069,7 @@ schneider.zip
 schneiderelectric.zip
 schoolwork.zip
 schuetz.zip
+scoular.zip
 screenconnect.zip
 screensaver.zip
 screenshots.zip
@@ -2033,6 +2085,7 @@ secrets.zip
 secure.zip
 securedownload.zip
 securefix.zip
+securetransfer.zip
 secureupdate.zip
 secureupdateinstaller.zip
 secureupload.zip
@@ -2054,6 +2107,7 @@ sentinel.zip
 sentinelone-installer.zip
 sentineloneinstaller.zip
 seoreport.zip
+sergal.zip
 sertifikat.zip
 server-backup.zip
 serverbackup.zip
@@ -2168,6 +2222,8 @@ starlink.zip
 starship.zip
 stas.zip
 stash.zip
+stat-niger-letter.zip
+statefoodsafety-exe.zip
 statement.zip
 statements.zip
 statementsofwork.zip
@@ -2249,16 +2305,20 @@ tenshi.zip
 terminationletter.zip
 termpaper.zip
 terraform.zip
+teslafiwin32.zip
 teslaleak.zip
 tesseract.zip
+test-pearsports-restore.zip
 test1.zip
 test123.zip
 test2.zip
 testfiles.zip
 testing.zip
 testresults.zip
+texaspeanutboardwin64.zip
 textfile.zip
 texturepack.zip
+thal.zip
 thales.zip
 thalesaleniaspace.zip
 thalesgroup.zip
@@ -2380,6 +2440,7 @@ updater.zip
 updaters.zip
 updates-saint-egreve.zip
 updates-sebhastian.zip
+updates-smooth-on.zip
 updatesbettatrading.zip
 updatesddbsa.zip
 updatewindows.zip
@@ -2440,6 +2501,7 @@ viewonline.zip
 virtua.zip
 virtualbox.zip
 viruses.zip
+virusfree.zip
 virustotal.zip
 visionary.zip
 vladimir.zip
@@ -2448,6 +2510,7 @@ vlc.zip
 vmlinux.zip
 vocabulary.zip
 voicemail.zip
+voormedia.zip
 vpn-update.zip
 vpn.zip
 vpnconfiguration.zip
@@ -2480,6 +2543,7 @@ webbrowser.zip
 webconfig.zip
 webflow.zip
 webp.zip
+webradiosmalware.zip
 websec.zip
 websitebackup.zip
 wechat.zip
@@ -2487,6 +2551,9 @@ wedeliver.zip
 weeb.zip
 weeklyreport.zip
 weis.zip
+weltethoswin32.zip
+werrenag.zip
+westcoastblacktheatre-win64.zip
 weston.zip
 westrockcoffee.zip
 weylin.zip
@@ -2507,8 +2574,12 @@ win-rar.zip
 win-x64.zip
 win10.zip
 win32-installer.zip
+win32greydogtales.zip
 win32ishare.zip
 win32k.zip
+win64-badgemanagement.zip
+win64-f.zip
+win64-filmstalker.zip
 win64-installer.zip
 win64-netcu.zip
 win64futej.zip
