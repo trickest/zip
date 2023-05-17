@@ -40,7 +40,7 @@ Here's an example of how the data is structured in the CSV files:
 
 1. Download [479k English words](https://github.com/dwyl/english-words) to be used as wordlist
 2. Download top [10 Million Websites](https://www.domcop.com/top-10-million-websites). Use a bash script to delete .tlds and get only the company names
-3. Use bash to create permutations for company names with wordlists (`backup`, `update`, etc)
+3. Use `custom-script` to create permutations for company names with wordlists (`backup`, `update`, etc)
 
 ```
 while read -r word; do
@@ -55,25 +55,12 @@ done < words.txt
 4. Download [NewDomains_ZIP File](https://raw.githubusercontent.com/CronUp/EnAnalisis/main/2023-05-15_NewDomains_ZIP) and merge it with all generated data
 5. Use [raft-small-words](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/raft-small-words.txt), [raft-large-words](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/raft-large-words.txt), [raft-large-directories-lowercase](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/raft-large-directories-lowercase.txt), [directory-list-lowercase-2.3-big](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/directory-list-lowercase-2.3-big.txt)
 6. Use [mgwls](https://github.com/trickest/mgwls) to generate `.zip` tlds
-7. Use bash to create permutations
-
-```
-while read -r word; do
-    while read -r line; do
-        echo "${word}${line}"
-        echo "${line}${word}"
-        echo "${line}-${word}"
-        echo "${word}-${line}"
-    done < domains.txt
-done < words.txt
-```
-
-4. Generate batched pattern to be able to execute the workflow in parallel on 50 machines
-5. Use [puredns](https://github.com/d3mondev/puredns) for faster resolving
-6. Use [dnsx](https://github.com/projectdiscovery/dnsx) to resolve and get JSON data
-7. Merge the data from parallel executions
-8. Create CSV `zip-domains.csv`  with `python`
-9. Push to repository
+7. Generate batched pattern to be able to execute the workflow in parallel on 50 machines or more
+8. Use [puredns](https://github.com/d3mondev/puredns) for faster resolving
+9. Use [dnsx](https://github.com/projectdiscovery/dnsx) to resolve and get JSON data
+10. Merge the data from parallel executions
+11. Create CSV `zip-domains.csv`  with `python`
+12. Push to repository
 
 ## Contribution
 All contributions/ideas/suggestions are welcome! Feel free to create a new ticket via [GitHub issues](https://github.com/trickest/cloud/issues), tweet at us [@trick3st](https://twitter.com/trick3st), or join the conversation on [Discord](https://discord.gg/7HZmFYTGcQ).
