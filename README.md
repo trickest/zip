@@ -58,9 +58,11 @@ done < words.txt
 7. Generate batched pattern to be able to execute the workflow in parallel on 50 machines or more
 8. Use [puredns](https://github.com/d3mondev/puredns) for faster resolving
 9. Use [dnsx](https://github.com/projectdiscovery/dnsx) to resolve and get JSON data
-10. Merge the data from parallel executions
-11. Create CSV `zip-domains.csv`  with `python`
-12. Push to repository
+10. Use [webscreenshot](https://github.com/maaaaz/webscreenshot) to take screenshots
+11. Merge the data from parallel executions
+12. Create CSV `zip-domains.csv`  with `python`
+13. Create Markdown screenshots report [screenshots.md](./screenshots.md)
+14. Push to repository
 
 ## Contribution
 All contributions/ideas/suggestions are welcome! Feel free to create a new ticket via [GitHub issues](https://github.com/trickest/cloud/issues), tweet at us [@trick3st](https://twitter.com/trick3st), or join the conversation on [Discord](https://discord.gg/7HZmFYTGcQ).
