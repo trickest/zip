@@ -33,6 +33,12 @@ Here's an example of how the data is structured in the CSV files:
 |----------|------------------------------------------------|--------------------------------|--------------------------------------------------------------------|-------------|----------------------------------------------------------------|-----|----------|-------------------------------|----|-----|-------|-----|-----|------------------|------------------------------------------------|
 | backup.zip  | ns1.name.com, hostmaster.nsone.net              | ns4fmw.name.com, ns2dky.name.com, ns1bdg.name.com, ns3dkz.name.com | NOERROR                                                            |             | 91.195.240.94, 163.114.216.17, 163.114.216.49, 163.114.217.17, 163.114.217.49 |     |          | 2a00:edc0:107::49              |    |     |       |     |     |                  |                                                  |
 | microsoft-office.zip  | ns1.name.com, hostmaster.nsone.net              | ns4fmw.name.com, ns2dky.name.com, ns1bdg.name.com, ns3dkz.name.com | NOERROR                                                            |             | 91.195.240.94, 163.114.216.17, 163.114.216.49, 163.114.217.17, 163.114.217.49 |     |          | 2a00:edc0:107::49              |    |     |       |     |     |                  |                                                  |
+
+
+# Screenshots
+
+This repository also includes screenshots of live web servers running on ports 80 or 443 of the found websites. All screenshots can be found in the [screenshots](./screenshots/) directory and a Markdown report is available at [screenshots.md](./screenshots.md) for convenient browsing purposes.
+
 ## How It Works
 
 ![Trickest Workflow - SSL](images/zip.png "Trickest Workflow - zip")
